@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TelasApp</string>
+    <string name="segunda_tela">Segunda Tela</string>
+    <string name="terceira_tela">Terceira Tela</string>
+    <string name="tela_principal">Tela Principal</string>
+
+</resources>
